@@ -24,19 +24,19 @@ footer{
     margin-top: 1em;
 }
 
-.container {
+
+.principal{
+    margin-left: 25% !important;
+    margin-right: 25% !important;
+    margin-top: 10% !important;
+    margin-bottom: 15% !important;
     background-color: #EBF4F6;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
-.principal{
-    margin-left: 15% !important;
-    margin-right: 15% !important;
-    margin-top: 10% !important;
-    margin-bottom: 15% !important;
-    width: 100% !important;
-}
+
+
 .form-group {
     margin-bottom: 15px;
 }
@@ -77,6 +77,7 @@ footer{
 .teste{
     text-align: center;
 }
+
 
  /* Media Queries */
  @media (max-width: 768px) {
